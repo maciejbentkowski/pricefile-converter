@@ -22,8 +22,10 @@ def choose_pricefile():
     choice = input('Enter the file name: ')
     if choice in pricefile_list:
         return choice
+    elif choice == 'exit':
+        exit()
     else:
-        print('The file you have entered is not in the list above. Please try again')
+        print('The file you have entered is not in the list above. Please try again or type "exit" to exit the program')
         choose_pricefile()
 
 if TESTING_MODE_ON:
