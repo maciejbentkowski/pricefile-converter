@@ -2,8 +2,8 @@ from modules.pricefile_scripts import *
 import os
 
 
-def script_choice(filename):
-    filedir = './testing_pricefiles/' + str(filename)
+def script_choice(pricefiles_directory, filename):
+    filedir = str(pricefiles_directory) + str(filename)
     if filename.endswith('.txt') and 'ford' in filename:
         print(filename)
         print(filedir)

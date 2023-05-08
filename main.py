@@ -14,7 +14,7 @@ if TESTING_MODE_ON:
             print("There are more than one pricefile in the testing_pricefiles directory. Please choose one or type 'exit' to quit")
             choice = choose_pricefile(pricefiles_list)
             print(choice)
-            script_choice(choice)
+            script_choice(pricefiles_directory, choice)
             exit()
         else:
             print(file)
