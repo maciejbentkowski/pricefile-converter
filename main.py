@@ -1,5 +1,5 @@
 from modules.file_import import *
-
+from modules.file_recognition import *
 TESTING_MODE_ON = True
 
 
@@ -14,6 +14,7 @@ if TESTING_MODE_ON:
             print("There are more than one pricefile in the testing_pricefiles directory. Please choose one or type 'exit' to quit")
             choice = choose_pricefile(pricefiles_list)
             print(choice)
+            script_choice(choice)
             exit()
         else:
             print(file)
