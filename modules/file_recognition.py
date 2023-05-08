@@ -1,6 +1,4 @@
 from modules.pricefile_scripts import *
-import os
-
 
 def script_choice(pricefiles_directory, filename):
     filedir = str(pricefiles_directory) + str(filename)
