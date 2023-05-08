@@ -1,0 +1,500 @@
+BP4K57043C73 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BBM257044 02 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+CC2957044 02 ABDECKUNG      CC2957044A02 000001311004020020101  M000                                                  000000000
+GJ6A57044 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GS1D57044 02 ABDECKUNG                   000000587004020020001  M000                                                  000000000
+TA0157044 09 ABDECKUNG                   000000761004020020001  M000                                                  000000000
+CC2957044 33 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+GJ6A57044 72 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+CC2957044A02 ABDECKUNG      CC2957044 02 000001311004020020201  M000                                                  000000000
+EG2157044A02 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+D26957044A05 ABDECKUNG                   000000763004020020001  M000                                                  000000000
+GA2K57044A29 ABDECKUNG                   000000912004020020001  M000                                                  000000000
+C00157044A41 ABDECKUNG                   000001015004020020001  M000AUFGELASSEN!                                      000000000
+GA2K57044A78 ABDECKUNG                   000000912004020020001  M000                                                  000000000
+C10057044B05 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+GE4T57044B05 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GE4T57044B43 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+C10057044B63 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+GE4T57044B65 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+G14S57044B65 ABDECKUNG                   000001226004020020001  M000AUFGELASSEN!                                      000000000
+BP4K57044C02 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BP4K57044C73 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BDHW57046 02 ABDECKUNG                   000001442004020020001  M000                                                  000000000
+B0J857046 02 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+DFR757046 02 ABDECKUNG                   000001309004020020001  M000                                                  000000000
+DGL257046 02 ABDECKUNG                   000001309004020020001  M000                                                  000000000
+KSR757046 02 ABDECKUNG                   000000645004020020001  M000                                                  000000000
+B4555705X    BOLZEN         B4555705XA   000000380004020020101  M000                                                  000000000
+UB405705X    BOLZEN                      000000379004020020001  M000                                                  000000000
+UH715705X    BOLZEN                      000000261004020020001  M000                                                  000000000
+UH725705X    BOLZEN                      000000261004020020001  M000                                                  000000000
+B4555705XA   BOLZEN         B4555705XB   000000380004020020101  M000                                                  000000000
+B4555705XB   BOLZEN         B4555705X    000000380004020020201  M000                                                  000000000
+LD055705Y 05 ABDECKUNG                   000007153004020020001  M000                                                  000000000
+LD055705Y 63 ABDECKUNG      LD055705YB63 000007153004020020101  M000                                                  000000000
+LC985705YA02 ABDECKUNG                   000007137004020020001  M000                                                  000000000
+LC985705YA05 ABDECKUNG                   000007137004020020001  M000                                                  000000000
+LC985705YA63 ABDECKUNG                   000007137004020020001  M000                                                  000000000
+LC665705YB02 ABDECKUNG                   000012205004020020001  M000                                                  000000000
+LD055705YB02 ABDECKUNG                   000007153004020020001  M000                                                  000000000
+LC665705YB05 ABDECKUNG                   000012205004020020001  M000                                                  000000000
+LC665705YB63 ABDECKUNG                   000012205004020020001  M000                                                  000000000
+LD055705YB63 ABDECKUNG      LD055705Y 63 000007153004020020201  M000                                                  000000000
+1E0057050    VERRIEGELUNG                000002795004020020001  M000                                                  000000000
+BBP357051 02 ABDECKUNG                   000001512004020020001  M000                                                  000000000
+CC2957051 02 ABDECKUNG      CC2957051A02 000001311004020020101  M000                                                  000000000
+DJ0157051 02 ABDECKUNG                   000000974004020020001  M000                                                  000000000
+EH1057051 02 ABDECKUNG                   000004965004020020001  M000                                                  000000000
+F15157051 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GJ6A57051 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GS1D57051 02 ABDECKUNG                   000000587004020020001  M000                                                  000000000
+1E0057051 05 ABDECKUNG                   000001843004020020001  M000                                                  000000000
+TA0157051 09 ABDECKUNG                   000000761004020020001  M000                                                  000000000
+1E0057051 20 ABDECKUNG                   000001843004020020001  M000                                                  000000000
+GA2K57051 29 ABDECKUNG                   000000890004020020001  M000                                                  000000000
+CC2957051 33 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+UH7157051 41 ABDECKUNG                   000000647004020020001  M000                                                  000000000
+1E0057051 54 ABDECKUNG                   000001843004020020001  M000                                                  000000000
+GJ6A57051 72 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GJ2157051 96 ABDECKUNG                   000000675004020020001  M000AUFGELASSEN!                                      000000000
+G21357051 96 ABDECKUNG                   000000767004020020001  M000AUFGELASSEN!                                      000000000
+BP4K57051A02 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+CC2957051A02 ABDECKUNG      CC2957051 02 000001311004020020201  M000                                                  000000000
+D65157051A02 ABDECKUNG                   000000974004020020001  M000                                                  000000000
+GE4T57051A05 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+B48157051A32 ABDECKUNG                   000000576013020020001  M000AUFGELASSEN!                                      000000000
+BP4K57051A72 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BP4K57051A73 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BC1M57051B00 ABDECKUNG      BC1M57051C00 000000912004020020101  M000                                                  000000000
+B25D57051B05 ABDECKUNG                   000000517004020020001  M000                                                  000000000
+C10057051B63 ABDECKUNG                   000000924004020020001  M000                                                  000000000
+BC1M57051C00 ABDECKUNG      BC1M57051B00 000000912004020020201  M000                                                  000000000
+B01A57051C00 ABDECKUNG                   000000912004020020001  M000AUFGELASSEN!                                      000000000
+EC0157051C42 ABDECKUNG                   000002634004020020001  M000                                                  000000000
+BBP357052 02 ABDECKUNG                   000001512004020020001  M000                                                  000000000
+CC2957052 02 ABDECKUNG      CC2957052A02 000001311004020020101  M000                                                  000000000
+EH1057052 02 ABDECKUNG                   000004965004020020001  M000AUFGELASSEN!                                      000000000
+F15157052 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GA2K57052 02 ABDECKUNG                   000001101004020020001  M000                                                  000000000
+GJ6A57052 02 ABDECKUNG                   000001568004020020001  M000                                                  000000000
+GS1D57052 02 ABDECKUNG                   000000587004020020001  M000                                                  000000000
+TA0157052 09 ABDECKUNG                   000000761004020020001  M000                                                  000000000
+GA2K57052 29 ABDECKUNG                   000001101004020020001  M000AUFGELASSEN!                                      000000000
+CC2957052 33 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+GJ6A57052 72 ABDECKUNG                   000001568004020020001  M000                                                  000000000
+GJ2157052 96 ABDECKUNG                   000000675004020020001  M000                                                  000000000
+BC1M57052A00 ABDECKUNG      BC1M57052B00 000000469004020020101  M000                                                  000000000
+BP4K57052A02 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+CC2957052A02 ABDECKUNG      CC2957052 02 000001311004020020201  M000                                                  000000000
+1E0057052A20 ABDECKUNG                   000000567004020020001  M000                                                  000000000
+B45557052A65 ABDECKUNG      B45557052B65 000000460013020020101  M000                                                  000000000
+C00157052A65 ABDECKUNG                   000001396004020020001  M000AUFGELASSEN!                                      000000000
+BP4K57052A72 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BP4K57052A73 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BC1M57052B00 ABDECKUNG      BC1M57052A00 000000469004020020201  M000AUFGELASSEN!                                      000000000
+D65157052B02 ABDECKUNG                   000001195004020020001  M000                                                  000000000
+D26957052B05 ABDECKUNG                   000001143004020020001  M000                                                  000000000
+G14S57052B05 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+B45557052B32 ABDECKUNG                   000000460004020020001  M000                                                  000000000
+GE4T57052B43 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+B45557052B65 ABDECKUNG      B45557052A65 000000460004020020201  M000                                                  000000000
+GE4T57052B65 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+G14S57052B65 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+EC0157052C42 ABDECKUNG                   000002634004020020001  M000AUFGELASSEN!                                      000000000
+BBM257053 02 ABDECKUNG                   000001512004020020001  M000                                                  000000000
+BP4K57053 02 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+CC2957053 02 ABDECKUNG      CC2957053A02 000001311004020020101  M000                                                  000000000
+F15157053 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GJ6A57053 02 ABDECKUNG                   000001568004020020001  M000                                                  000000000
+GS1D57053 02 ABDECKUNG                   000000587004020020001  M000                                                  000000000
+TA0157053 09 ABDECKUNG                   000000761004020020001  M000AUFGELASSEN!                                      000000000
+CC2957053 33 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+G21357053 48 ABDECKUNG                   000000767004020020001  M000AUFGELASSEN!                                      000000000
+BP4K57053 72 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+GJ6A57053 72 ABDECKUNG                   000001568004020020001  M000                                                  000000000
+BP4K57053 73 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+GJ2157053 96 ABDECKUNG                   000000675004020020001  M000                                                  000000000
+BC1M57053A00 ABDECKUNG      BC1M57053B00 000000469004020020101  M000                                                  000000000
+CC2957053A02 ABDECKUNG      CC2957053 02 000001311004020020201  M000                                                  000000000
+C10057053A05 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+C00157053A41 ABDECKUNG                   000001226004020020001  M000AUFGELASSEN!                                      000000000
+C10057053A63 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+B45557053A65 ABDECKUNG      B45557053B65 000000460013020020101  M000                                                  000000000
+C00157053A65 ABDECKUNG                   000001367004020020001  M000AUFGELASSEN!                                      000000000
+BC1M57053B00 ABDECKUNG      BC1M57053A00 000000469004020020201  M000AUFGELASSEN!                                      000000000
+D65157053B02 ABDECKUNG                   000001195004020020001  M000                                                  000000000
+EG2157053B02 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+D26957053B05 ABDECKUNG                   000001143004020020001  M000                                                  000000000
+GE4T57053B05 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+D20957053B20 ABDECKUNG                   000001143004020020001  M000                                                  000000000
+GE4T57053B29 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GE4T57053B43 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+B45557053B65 ABDECKUNG      B45557053A65 000000460004020020201  M000                                                  000000000
+G14S57053B65 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+B45557053C   ABDECKUNG                   000000553004020020001  M000                                                  000000000
+EC0157053C42 ABDECKUNG                   000002634004020020001  M000                                                  000000000
+062157054    ABDECKUNG                   000000449013020020001  M000                                                  000000000
+CC2957054 02 ABDECKUNG      CC2957054A02 000001311004020020101  M000                                                  000000000
+DJ0157054 02 ABDECKUNG                   000000974004020020001  M000                                                  000000000
+F15157054 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GJ6A57054 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GS1D57054 02 ABDECKUNG                   000000587004020020001  M000                                                  000000000
+TA0157054 09 ABDECKUNG                   000000761004020020001  M000                                                  000000000
+CC2957054 33 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+UHY057K80    REP.SATZ                    000001646004020020001  M000SERVICE-INFO!                                     000000000
+T0Y257K80 9A REP.SATZ                    000011836004020020001  M000SERVICE-INFO!                                     000000000
+FEY157K80A   AIRBAGGENERATOR             000004562004020020001  M000AUFGELASSEN!                                      000000000
+GRZA57K80A   AIRBAGGENERATORGRYB57K80    000005899004020020201  M000SERVICE-INFO! CA.15000 IST 113% 16992             000000000
+GRZD57K80A   AIRBAGGENERATOR             000006467004020020001  M000SERVICE-INFO! CA.6500 IST 123% 8018 / 1XCLAIM!    000000000
+S2Z357K80A   AIRBAGGENERATOR             000004905004020020001  M000SERVICE-INFO! CA.70000 IST 62% 43348              000000000
+URZ457K80A   AIRBAGGENERATOR             000004661004020020001  M000SERVICE-INFO! CA.10000 IST 40% 4003!!             000000000
+E2Z357K80B   AIRBAGGENERATOR             000006862004020020001  M000SERVICE-INFO! CA.5500 IST 48% 2624                000000000
+F1Z257K80B   AIRBAGGENERATOR             000007016004020020001  M000SERVICE-INFO! CA.7000 IST 41% 2882                000000000
+GJYB57K80B   AIRBAGGENERATOR             000009825004020020001  M000SERVICE-INFO! CA.40000 25% 10031 1XCLAIM          000000000
+GSYD57K80B   AIRBAGGENERATOR             000006862004020020001  M000SERVICE-INFO! CA.22000 IST 59% 12933              000000000
+GSZD57K80B   AIRBAGGENERATOR             000006657004020020001  M000SERVICE-INFO! CA.11000 IST 44% 4840               000000000
+BHS257K88    ABDECKUNG                   000001062004020020001  M000                                                  000000000
+D09H57K88    ABDECKUNG                   000000781004020020001  M000                                                  000000000
+NE5157K88    ABDECKUNG                   000001260004020020001  M000                                                  000000000
+KA7857K91    AUFKLEBER                   000000915004020020001  M000                                                  000000000
+NA0157K91    AUFKLEBER                   000000478004020020001  M000AUFGELASSEN!                                      000000000
+1E0057K91    AUFKLEBER      DD1157K92    000000914004020020201  M000                                                  000000000
+DD1157K92    AUFKLEBER      1E0057K91    000000914004020020101  M000                                                  000000000
+GC6W57K92    AUFKLEBER      GD8K57K92    000000235004020020101  M000                                                  000000000
+GD8K57K92    AUFKLEBER      GC6W57K92    000000235004020020201  M000                                                  000000000
+GE4T57K92    AUFKLEBER                   000000615004020020001  M000                                                  000000000
+GJ6A57K92    AUFKLEBER      GJ6A57K92A   000000362004020020101  M000                                                  000000000
+FE0157K92A   AUFKLEBER                   000000263004020020001  M000                                                  000000000
+GJ6A57K92A   AUFKLEBER      GJ6A57K92    000000362004020020201  M000                                                  000000000
+BCKA57K95    KLAMMER                     000000183004020020001  M000                                                  000000000
+BCKN57K95    KLAMMER                     000000595004020020001  M000                                                  000000000
+GR1A57K95    KLAMMER                     000000387004020020001  M000                                                  000000000
+KD4557K95    KLAMMER                     000000174004020020001  M000                                                  000000000
+BCKA57K97    KLAMMER                     000000805004020020001  M000                                                  000000000
+D65157K97A   KLAMMER                     000000639004020020001  M000                                                  000000000
+T0Y257K98    MUTTERNSATZ                 000000489004020020001  M000                                                  000000000
+BDEL57LM0    GURTSTRAFFER   BDEL57LM0A   000024591004020020101  M000                                                  000000000
+DN2W57LM0    GURTSTRAFFER   DN2W57LM0A   000018799004020020101  M000                                                  000000000
+DN4J57LM0    GURTSTRAFFER                000024591004020020001  M000                                                  000000000
+KB8M57LM0    GURTSTRAFFER                000023356004020020001  M000                                                  000000000
+BDEL57LM0A   GURTSTRAFFER   BDEL57LM0B   000024591004020020101  M000                                                  000000000
+BDEN57LM0A   GURTSTRAFFER   BDEN57LM0B   000024591004020020101  M000                                                  000000000
+DE1F57LM0A   GURTSTRAFFER                000015624004020020001  M000                                                  000000000
+DN2W57LM0A   GURTSTRAFFER   DN2W57LM0B   000018799004020020101  M000                                                  000000000
+KB8M57LM0A   GURTSTRAFFER   KB8M57LM0B   000023356004020020101  M0009                                                 000000000
+KR9P57LM0A   GURTSTRAFFER   KR9P57LM0B   000023211004020020101  M000                                                  000000000
+BDEL57LM0B   GURTSTRAFFER   BDEL57LM0    000024591004020020201  M000                                                  000000000
+BDEN57LM0B   GURTSTRAFFER   BDEN57LM0A   000024591004020020201  M000                                                  000000000
+DA6A57LM0B   GURTSTRAFFER   DA6A57LM0C   000020813004020020101  M000                                                  000000000
+DA6J57LM0B   GURTSTRAFFER   DA6J57LM0C   000019026004020020101  M000                                                  000000000
+DB2P57LM0B   GURTSTRAFFER   DB2P57LM0C   000017665004020020101  M000                                                  000000000
+DFR557LM0B   GURTSTRAFFER   DFR557LM0C   000024591004020020101  M000                                                  000000000
+DGK957LM0B   GURTSTRAFFER   DGK957LM0C   000024591004020020101  M000                                                  000000000
+DN2W57LM0B   GURTSTRAFFER   DN2W57LM0    000018799004020020201  M000                                                  000000000
+GSK157LM0B   GURTSTRAFFER   GSK157LM0C   000023414004020020101  M000                                                  000000000
+GSK457LM0B   GURTSTRAFFER   GSK457LM0C   000023882004020020101  M000                                                  000000000
+KB8M57LM0B   GURTSTRAFFER   KB8M57LM0C   000023356004020020101  M000                                                  000000000
+KR9P57LM0B   GURTSTRAFFER   KR9P57LM0A   000023211004020020201  M000                                                  000000000
+BDEN57LM0C   GURTSTRAFFER                000024109004020020001  M000                                                  000000000
+DA6A57LM0C   GURTSTRAFFER   DA6A57LM0D   000020813004020020101  M000                                                  000000000
+DA6J57LM0C   GURTSTRAFFER   DA6J57LM0B   000019026004020020201  M000                                                  000000000
+DB2P57LM0C   GURTSTRAFFER   DB2P57LM0D   000017665004020020101  M000                                                  000000000
+DFR557LM0C   GURTSTRAFFER   DFR557LM0B   000024591004020020201  M000                                                  000000000
+DGK957LM0C   GURTSTRAFFER   DGK957LM0B   000024591004020020201  M000                                                  000000000
+GSK157LM0C   GURTSTRAFFER   GSK157LM0D   000023414004020020101  M000                                                  000000000
+GSK457LM0C   GURTSTRAFFER   GSK457LM0E   000023882004020020101  M000                                                  000000000
+KB8M57LM0C   GURTSTRAFFER   KB8M57LM0D   000023356004020020101  M000                                                  000000000
+DA6A57LM0D   GURTSTRAFFER   DA6A57LM0B   000020813004020020201  M000                                                  000000000
+DB2P57LM0D   GURTSTRAFFER   DB2P57LM0E   000017665004020020101  M000                                                  000000000
+GSK157LM0D   GURTSTRAFFER   GSK157LM0B   000023414004020020201  M000                                                  000000000
+KB8M57LM0D   GURTSTRAFFER   KB8M57LM0A   000023356004020020201  M000                                                  000000000
+DB2P57LM0E   GURTSTRAFFER   DB2P57LM0F   000017665004020020101  M000                                                  000000000
+GSK457LM0E   GURTSTRAFFER   GSK457LM0F   000023882004020020101  M000                                                  000000000
+DB2P57LM0F   GURTSTRAFFER   DB2P57LM0G   000017665004020020101  M000                                                  000000000
+GSK457LM0F   GURTSTRAFFER   GSK457LM0B   000023882004020020201  M000                                                  000000000
+DB2P57LM0G   GURTSTRAFFER   DB2P57LM0H   000017665004020020201  M000                                                  000000000
+DB2P57LM0H   GURTSTRAFFER   DB2P57LM0B   000017665004020020101  M000                                                  000000000
+BDEL57LN0    GURTSTRAFFER   BDEL57LN0A   000024591004020020101  M000                                                  000000000
+DG7R57LN0    GURTSTRAFFER   DG7R57LN0A   000020813004020020101  M000                                                  000000000
+DN4J57LN0    GURTSTRAFFER                000024591004020020001  M000                                                  000000000
+KB8M57LN0    GURTSTRAFFER                000023356004020020001  M000                                                  000000000
+BDEL57LN0A   GURTSTRAFFER   BDEL57LN0    000024591004020020201  M000                                                  000000000
+BDEN57LN0A   GURTSTRAFFER   BDEN57LN0B   000024591004020020101  M000                                                  000000000
+DE1F57LN0A   GURTSTRAFFER                000015624004020020001  M000                                                  000000000
+DG7R57LN0A   GURTSTRAFFER   DG7R57LN0B   000020813004020020101  M000                                                  000000000
+KB8M57LN0A   GURTSTRAFFER   KB8M57LN0B   000023356004020020101  M000                                                  000000000
+KR9P57LN0A   GURTSTRAFFER   KR9P57LN0B   000023211004020020101  M000                                                  000000000
+BDEN57LN0B   GURTSTRAFFER   BDEN57LN0A   000024591004020020201  M000                                                  000000000
+DA6A57LN0B   GURTSTRAFFER   DA6A57LN0C   000020813004020020101  M000                                                  000000000
+DB2P57LN0B   GURTSTRAFFER   DB2P57LN0C   000017665004020020101  M000                                                  000000000
+DFR557LN0B   GURTSTRAFFER   DFR557LN0C   000024591004020020101  M000                                                  000000000
+DGK957LN0B   GURTSTRAFFER   DGK957LN0C   000024591004020020101  M000                                                  000000000
+DG7R57LN0B   GURTSTRAFFER   DG7R57LN0    000020813004020020201  M000                                                  000000000
+GSK157LN0B   GURTSTRAFFER   GSK157LN0C   000023414004020020101  M000                                                  000000000
+GSK457LN0B   GURTSTRAFFER   GSK457LN0C   000023882004020020101  M000                                                  000000000
+KB8M57LN0B   GURTSTRAFFER   KB8M57LN0C   000023356004020020101  M000                                                  000000000
+KR9P57LN0B   GURTSTRAFFER   KR9P57LN0A   000023211004020020201  M000                                                  000000000
+BDEN57LN0C   GURTSTRAFFER                000024109004020020001  M000                                                  000000000
+DA6A57LN0C   GURTSTRAFFER   DA6A57LN0D   000020813004020020101  M000                                                  000000000
+DA6J57LN0C   GURTSTRAFFER   DA6J57LN0D   000019026004020020101  M000                                                  000000000
+DB2P57LN0C   GURTSTRAFFER   DB2P57LN0D   000017665004020020101  M000                                                  000000000
+DFR557LN0C   GURTSTRAFFER   DFR557LN0D   000024591004020020101  M000                                                  000000000
+DGK957LN0C   GURTSTRAFFER   DGK957LN0D   000024591004020020101  M000                                                  000000000
+GSK157LN0C   GURTSTRAFFER   GSK157LN0D   000023414004020020101  M000                                                  000000000
+GSK457LN0C   GURTSTRAFFER   GSK457LN0E   000023882004020020101  M000                                                  000000000
+KB8M57LN0C   GURTSTRAFFER   KB8M57LN0D   000023356004020020101  M000                                                  000000000
+DA6A57LN0D   GURTSTRAFFER   DA6A57LN0B   000020813004020020201  M000                                                  000000000
+DA6J57LN0D   GURTSTRAFFER   DA6J57LN0C   000019026004020020201  M000                                                  000000000
+DB2P57LN0D   GURTSTRAFFER   DB2P57LN0E   000017665004020020101  M000                                                  000000000
+DFR557LN0D   GURTSTRAFFER   DFR557LN0B   000024591004020020201  M000                                                  000000000
+DGK957LN0D   GURTSTRAFFER   DGK957LN0B   000024591004020020201  M000                                                  000000000
+GSK157LN0D   GURTSTRAFFER   GSK157LN0E   000023414004020020101  M000                                                  000000000
+KB8M57LN0D   GURTSTRAFFER   KB8M57LN0A   000023356004020020201  M000                                                  000000000
+DB2P57LN0E   GURTSTRAFFER   DB2P57LN0F   000017665004020020101  M000                                                  000000000
+GSK157LN0E   GURTSTRAFFER   GSK157LN0B   000023414004020020201  M000                                                  000000000
+GSK457LN0E   GURTSTRAFFER   GSK457LN0F   000023882004020020101  M000                                                  000000000
+DB2P57LN0F   GURTSTRAFFER   DB2P57LN0G   000017665004020020101  M000                                                  000000000
+GSK457LN0F   GURTSTRAFFER   GSK457LN0B   000023882004020020201  M000                                                  000000000
+DB2P57LN0G   GURTSTRAFFER   DB2P57LN0H   000017665004020020201  M000                                                  000000000
+DB2P57LN0H   GURTSTRAFFER   DB2P57LN0B   000017665004020020101  M000                                                  000000000
+BP4K57L20 02 GURTSTRAFFER                000023425004020020001  M000                                                  000000000
+B32H57L20 02 GURTSTRAFFER                000023425004020020001  M000                                                  000000000
+BP4K57L20 73 GURTSTRAFFER                000023425004020020001  M000                                                  000000000
+BEKG57L30    GURTSTRAFFER   BEKG57L30A   000022436004020020101  M000                                                  000000000
+DBYF57L30    GURTSTRAFFER                000041085004020020001  M000                                                  000000000
+DB2P57L30    GURTSTRAFFER   DB2P57L30A   000026361004020020101  M000                                                  000000000
+DD1057L30    GURTSTRAFFER   DD1057L30A   000030445004020020101  M000                                                  000000000
+DG4057L30    GURTSTRAFFER   DG4057L30A   000030445004020020101  M000                                                  000000000
+KR9P57L30    GURTSTRAFFER   KR9P57L30B   000024651004020020101  M000                                                  000000000
+NEY157L30    GURTSTRAFFER                000034254004020020001  M000                                                  000000000
+CC2957L30 00 GURTSTRAFFER   CC2957L30A00 000022647004020020101  M000                                                  000000000
+CC4357L30 00 GURTSTRAFFER   CC4357L30B00 000027166004020020101  M000                                                  000000000
+BBY557L30 01 GURTSTRAFFER                000025000004020020001  M000                                                  000000000
+BAYS57L30 02 GURTSTRAFFER                000017569004020020001  M000                                                  000000000
+BHY957L30 02 GURTSTRAFFER                000031527004020020001  M000                                                  000000000
+BJV557L30 02 GURTSTRAFFER                000020309004020020001  M000                                                  000000000
+BR5S57L30 02 GURTSTRAFFER   BR5S57L30A02 000019466004020020101  M000                                                  000000000
+F1Y157L30 02 GURTSTRAFFER   F15157L30A02 000035817004020020201  M000                                                  000000000
+GF3H57L30 02 GURTSTRAFFER   GE5A57L30B02 000033877004020020101  M000                                                  000000000
+GHP957L30 02 GURTSTRAFFER   GHP957L30A02 000020617004020020101  M000                                                  000000000
+GS1E57L30 02 GURTSTRAFFER   GS1E57L30A02 000028339004020020101  M000                                                  000000000
+L16557L30 02 GURTSTRAFFER                000034013004020020001  M000                                                  000000000
+DC6957L30 05 GURTSTRAFFER                000036338004020020001  M000                                                  000000000
+GAY457L30 10 GURTSTRAFFER   GAC457L30A10 000035888004020020201  M000                                                  000000000
+GR1L57L30 10 GURTSTRAFFER                000041273004020020001  M000                                                  000000000
+DC2057L30 21 GURTSTRAFFER   DC2057L30C21 000033663004020020101  M000                                                  000000000
+KBYW57L30 75 GURTSTRAFFER                000032023004020020001  M000                                                  000000000
+BEKG57L30A   GURTSTRAFFER   BEKG57L30    000022436004020020201  M000                                                  000000000
+DA9A57L30A   GURTSTRAFFER                000018768004020020001  M000                                                  000000000
+DB2P57L30A   GURTSTRAFFER   DB2P57L30B   000026361004020020101  M000                                                  000000000
+DD1057L30A   GURTSTRAFFER   DG4057L30    000030445004020020101  M000                                                  000000000
+DG4057L30A   GURTSTRAFFER   DD1057L30    000030445004020020201  M000                                                  000000000
+DN4J57L30A   GURTSTRAFFER   DN4J57L30B   000026361004020020101  M000                                                  000000000
+CC2957L30A00 GURTSTRAFFER   CC2957L30B00 000022647004020020101  M000                                                  000000000
+NC8257L30A00 GURTSTRAFFER   NC8257L30B00 000033447004020020101  M000                                                  000000000
+BBY457L30A01 GURTSTRAFFER                000020585004020020001  M000                                                  000000000
+D65157L30A01 GURTSTRAFFER   D65157L30B01 000023644004020020101  M000                                                  000000000
+EH6457L30A01 GURTSTRAFFER                000025715004020020001  M000                                                  000000000
+BHS257L30A02 GURTSTRAFFER   BHS257L30B02 000020309004020020101  M000                                                  000000000
+BR5S57L30A02 GURTSTRAFFER   BR5S57L30B02 000019466004020020101  M000                                                  000000000
+E22357L30A02 GURTSTRAFFER                000025715004020020001  M000                                                  000000000
+F1Y957L30A02 GURTSTRAFFER                000035817004020020001  M000                                                  000000000
+F15157L30A02 GURTSTRAFFER   F15157L30B02 000035817004020020101  M000                                                  000000000
+GBJD57L30A02 GURTSTRAFFER                000020617004020020001  M000                                                  000000000
+GDK457L30A02 GURTSTRAFFER                000028339004020020001  M000                                                  000000000
+GHP957L30A02 GURTSTRAFFER   GHP957L30B02 000020617004020020101  M000                                                  000000000
+GJY957L30A02 GURTSTRAFFER                000037695004020020001  M000                                                  000000000
+GS1E57L30A02 GURTSTRAFFER   GS1E57L30 02 000028339004020020201  M000                                                  000000000
+GBJD57L30A03 GURTSTRAFFER                000020617004020020001  M000                                                  000000000
+BL2A57L30A05 GURTSTRAFFER                000020308004020020001  M000                                                  000000000
+TC9157L30A05 GURTSTRAFFER                000046342004020020001  M000                                                  000000000
+GAC457L30A10 GURTSTRAFFER   GAY457L30 10 000035888004020020101  M000                                                  000000000
+GJ8A57L30A10 GURTSTRAFFER                000041273004020020001  M000                                                  000000000
+UR6357L30A17 GURTSTRAFFER   UR6357L30B17 000025789004020020101  M000                                                  000000000
+UR7157L30A17 GURTSTRAFFER                000025789004020020001  M000                                                  000000000
+UR7157L30A18 GURTSTRAFFER                000025789004020020001  M000                                                  000000000
+NC8257L30A21 GURTSTRAFFER   NC8257L30B21 000033447004020020101  M000                                                  000000000
+E22357L30A34 GURTSTRAFFER                000025715004020020001  M000                                                  000000000
+EH6457L30A35 GURTSTRAFFER                000025715004020020001  M000                                                  000000000
+L08157L30A69 GURTSTRAFFER   L08157L30B69 000029696004020020101  M000                                                  000000000
+BR5S57L30A72 GURTSTRAFFER   BR5S57L30B72 000019466004020020101  M000                                                  000000000
+DA6A57L30B   GURTSTRAFFER                000019937004020020001  M000                                                  000000000
+DB2P57L30B   GURTSTRAFFER   DB2P57L30C   000026361004020020101  M000                                                  000000000
+DD1057L30B   GURTSTRAFFER                000025246004020020001  M000AUFGELASSEN!                                      000000000
+DN4J57L30B   GURTSTRAFFER   DN4J57L30C   000026361004020020101  M000                                                  000000000
+KR9P57L30B   GURTSTRAFFER   KR9P57L30    000024651004020020201  M000                                                  000000000
+NAYJ57L30B   GURTSTRAFFER                000046630004020020001  M000                                                  000000000
+NA1V57L30B   GURTSTRAFFER                000026741004020020001  M000RHD!                                              000000000
+CC2957L30B00 GURTSTRAFFER   CC2957L30C00 000022647004020020101  M000                                                  000000000
+CC4357L30B00 GURTSTRAFFER   CC4357L30 00 000027166004020020201  M000                                                  000000000
+NC8257L30B00 GURTSTRAFFER   NC8257L30D00 000033447004020020101  M000                                                  000000000
+TD8457L30B00 GURTSTRAFFER                000028615004020020001  M000                                                  000000000
+BBP257L30B01 GURTSTRAFFER   BBP257L30C01 000025084004020020101  M000                                                  000000000
+CC2957L30B01 GURTSTRAFFER   CC2957L30C01 000022647004020020101  M000                                                  000000000
+D65157L30B01 GURTSTRAFFER   D65157L30C01 000023644004020020101  M000                                                  000000000
+KD4557L30B01 GURTSTRAFFER   KD4557L30C01 000026663004020020101  M000                                                  000000000
+KE7857L30B01 GURTSTRAFFER                000021768004020020001  M000                                                  000000000
+BHS257L30B02 GURTSTRAFFER   BHS257L30C02 000020309004020020101  M000                                                  000000000
+BHV657L30B02 GURTSTRAFFER                000020309004020020001  M000                                                  000000000
+BR5S57L30B02 GURTSTRAFFER   BR5S57L30 02 000019466004020020201  M000                                                  000000000
+F15157L30B02 GURTSTRAFFER   F15157L30C02 000035817004020020101  M000                                                  000000000
+GE5A57L30B02 GURTSTRAFFER   GE5A57L30C02 000033877004020020101  M000                                                  000000000
+GHP957L30B02 GURTSTRAFFER   GHP957L30 02 000020617004020020201  M000                                                  000000000
+KD4557L30B02 GURTSTRAFFER   KD4557L30B01 000026663004020020101  M000                                                  000000000
+TK5257L30B02 GURTSTRAFFER   TK5257L30C02 000027377004020020101  M000                                                  000000000
+LC6457L30B05 GURTSTRAFFER                000041063004020020001  M000AUFGELASSEN!                                      000000000
+L08157L30B05 GURTSTRAFFER                000029696004020020001  M000                                                  000000000
+CCY357L30B10 GURTSTRAFFER                000025772004020020001  M000                                                  000000000
+UR6357L30B17 GURTSTRAFFER   UR6357L30D17 000025789004020020101  M000                                                  000000000
+UR6357L30B18 GURTSTRAFFER                000025789004020020001  M000                                                  000000000
+NC8257L30B21 GURTSTRAFFER   NC8257L30D21 000033447004020020101  M000                                                  000000000
+TD8457L30B34 GURTSTRAFFER                000028615004020020001  M000                                                  000000000
+BJ3D57L30B43 GURTSTRAFFER   BJ3D57L30C43 000020308004020020101  M000                                                  000000000
+BJ3D57L30B66 GURTSTRAFFER   BJ3D57L30C66 000020308004020020101  M000                                                  000000000
+L08157L30B69 GURTSTRAFFER   L08157L30A69 000029696004020020201  M000                                                  000000000
+BR5S57L30B72 GURTSTRAFFER   BR5S57L30A72 000019466004020020201  M000                                                  000000000
+TK5257L30B75 GURTSTRAFFER   TK5257L30C75 000027377004020020101  M000                                                  000000000
+BEPN57L30C   GURTSTRAFFER   BEPN57L30D   000022436004020020101  M000                                                  000000000
+DA6T57L30C   GURTSTRAFFER                000018768004020020001  M000                                                  000000000
+DB2P57L30C   GURTSTRAFFER   DB2P57L30    000026361004020020201  M000                                                  000000000
+DN4J57L30C   GURTSTRAFFER   DN4J57L30A   000026361004020020201  M000                                                  000000000
+NA1P57L30C   GURTSTRAFFER   NA1P57L30D   000026741004020020101  M000                                                  000000000
+CC2957L30C00 GURTSTRAFFER   CC2957L30D00 000022647004020020101  M000                                                  000000000
+NC8257L30C00 GURTSTRAFFER                000033447004020020001  M000                                                  000000000
+BBP257L30C01 GURTSTRAFFER   BBP257L30B01 000025084004020020201  M000                                                  000000000
+GE4T57043B05 ABDECKUNG                   000001226004020020001  M000AUFGELASSEN!                                      000000000
+GE4T57043B43 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+C10057043B63 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+GE4T57043B65 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+BP4K57043C02 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BP4K57043C73 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BBM257044 02 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+CC2957044 02 ABDECKUNG      CC2957044A02 000001311004020020101  M000                                                  000000000
+GJ6A57044 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GS1D57044 02 ABDECKUNG                   000000587004020020001  M000                                                  000000000
+TA0157044 09 ABDECKUNG                   000000761004020020001  M000                                                  000000000
+CC2957044 33 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+GJ6A57044 72 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+CC2957044A02 ABDECKUNG      CC2957044 02 000001311004020020201  M000                                                  000000000
+EG2157044A02 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+D26957044A05 ABDECKUNG                   000000763004020020001  M000                                                  000000000
+GA2K57044A29 ABDECKUNG                   000000912004020020001  M000                                                  000000000
+C00157044A41 ABDECKUNG                   000001015004020020001  M000AUFGELASSEN!                                      000000000
+GA2K57044A78 ABDECKUNG                   000000912004020020001  M000                                                  000000000
+C10057044B05 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+GE4T57044B05 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GE4T57044B43 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+C10057044B63 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+GE4T57044B65 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+G14S57044B65 ABDECKUNG                   000001226004020020001  M000AUFGELASSEN!                                      000000000
+BP4K57044C02 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BP4K57044C73 ABDECKUNG                   000000967004020020001  M000                                                  000000000
+BDHW57046 02 ABDECKUNG                   000001442004020020001  M000                                                  000000000
+B0J857046 02 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+DFR757046 02 ABDECKUNG                   000001309004020020001  M000                                                  000000000
+DGL257046 02 ABDECKUNG                   000001309004020020001  M000                                                  000000000
+KSR757046 02 ABDECKUNG                   000000645004020020001  M000                                                  000000000
+B4555705X    BOLZEN         B4555705XA   000000380004020020101  M000                                                  000000000
+UB405705X    BOLZEN                      000000379004020020001  M000                                                  000000000
+UH715705X    BOLZEN                      000000261004020020001  M000                                                  000000000
+UH725705X    BOLZEN                      000000261004020020001  M000                                                  000000000
+B4555705XA   BOLZEN         B4555705XB   000000380004020020101  M000                                                  000000000
+B4555705XB   BOLZEN         B4555705X    000000380004020020201  M000                                                  000000000
+LD055705Y 05 ABDECKUNG                   000007153004020020001  M000                                                  000000000
+LD055705Y 63 ABDECKUNG      LD055705YB63 000007153004020020101  M000                                                  000000000
+LC985705YA02 ABDECKUNG                   000007137004020020001  M000                                                  000000000
+LC985705YA05 ABDECKUNG                   000007137004020020001  M000                                                  000000000
+LC985705YA63 ABDECKUNG                   000007137004020020001  M000                                                  000000000
+LC665705YB02 ABDECKUNG                   000012205004020020001  M000                                                  000000000
+LD055705YB02 ABDECKUNG                   000007153004020020001  M000                                                  000000000
+LC665705YB05 ABDECKUNG                   000012205004020020001  M000                                                  000000000
+LC665705YB63 ABDECKUNG                   000012205004020020001  M000                                                  000000000
+LD055705YB63 ABDECKUNG      LD055705Y 63 000007153004020020201  M000                                                  000000000
+1E0057050    VERRIEGELUNG                000002795004020020001  M000                                                  000000000
+BBP357051 02 ABDECKUNG                   000001512004020020001  M000                                                  000000000
+CC2957051 02 ABDECKUNG      CC2957051A02 000001311004020020101  M000                                                  000000000
+DJ0157051 02 ABDECKUNG                   000000974004020020001  M000                                                  000000000
+EH1057051 02 ABDECKUNG                   000004965004020020001  M000                                                  000000000
+F15157051 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GJ6A57051 02 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GS1D57051 02 ABDECKUNG                   000000587004020020001  M000                                                  000000000
+1E0057051 05 ABDECKUNG                   000001843004020020001  M000                                                  000000000
+TA0157051 09 ABDECKUNG                   000000761004020020001  M000                                                  000000000
+1E0057051 20 ABDECKUNG                   000001843004020020001  M000                                                  000000000
+GA2K57051 29 ABDECKUNG                   000000890004020020001  M000                                                  000000000
+CC2957051 33 ABDECKUNG                   000001311004020020001  M000                                                  000000000
+UH7157051 41 ABDECKUNG                   000000647004020020001  M000                                                  000000000
+1E0057051 54 ABDECKUNG                   000001843004020020001  M000                                                  000000000
+GJ6A57051 72 ABDECKUNG                   000001226004020020001  M000                                                  000000000
+GJ2157051 96 ABDECKUNG                   000000675004020020001  M000AUFGELASSEN!                                      000000000
+G21357051 96 ABDECKUNG                   000000767004020020001  M000AUFGELASSEN!                                      000000000
+B45557054B   ABDECKUNG                   000000850004020020001  M000AUFGELASSEN!                                      000000000
+B48157054B   ABDECKUNG                   000000850004020020001  M000                                                  000000000
+BC1M57054B00 ABDECKUNG      BC1M57054C00 000000912004020020101  M000                                                  000000000
+B01A57054B00 ABDECKUNG      B01A57054C00 000000912004020020101  M000                                                  000000000
+B25D57054B05 ABDECKUNG                   000000553004020020001  M000                                                  000000000
+D20957054B20 ABDECKUNG                   000001143004020020001  M000AUFGELASSEN!                                      000000000
+B25D57054B43 ABDECKUNG                   000000553004020020001  M000                                                  000000000
+B25D57054B65 ABDECKUNG                   000000553004020020001  M000                                                  000000000
+BC1M57054C00 ABDECKUNG      BC1M57054B00 000000912004020020201  M000                                                  000000000
+B01A57054C00 ABDECKUNG      B01A57054B00 000000912004020020201  M000                                                  000000000
+D26957054C05 ABDECKUNG                   000001143004020020001  M000                                                  000000000
+EC0157054C42 ABDECKUNG                   000002634004020020001  M000                                                  000000000
+UR5657056    BOLZEN                      000000267004020020001  M000                                                  000000000
+LA0157057 09 ABDECKUNG                   000000666004020020001  M000AUFGELASSEN!                                      000000000
+LA0157057 46 ABDECKUNG                   000000666004020020001  M000AUFGELASSEN!                                      000000000
+1E0057059 20 ABDECKUNG                   000002240004020020001  M000                                                  000000000
+1E0057059 54 ABDECKUNG                   000001683004020020001  M000                                                  000000000
+821357062 00 ABDECKUNG                   000003355013020020001  M000                                                  000000000
+820857062 53 ABDECKUNG      821357062 53 000004964004020020201  M000AUFGELASSEN!                                      000000000
+821357062 53 ABDECKUNG      820857062 53 000004964013020020101  M000                                                  000000000
+820857063 53 ABDECKUNG      821357063 53 000004862004020020201  M000AUFGELASSEN!                                      000000000
+821357063 53 ABDECKUNG      820857063 53 000004862013020020101  M000                                                  000000000
+HG3457068A27 ABDECKUNG      HG3457068A29 000003191004020020101  M000                                                  000000000
+HG3457068A29 ABDECKUNG      HG3457068A27 000003191004020020201  M000                                                  000000000
+HG3057069A27 ABDECKUNG      HG3057069A29 000003788004020020101  M000                                                  000000000
+HG3057069A29 ABDECKUNG      HG3057069A27 000003788004020020201  M000                                                  000000000
+SA6857070    HALTER                      000004815004020020001  M000                                                  000000000
+L20657071A02 ABDECKUNG                   000000771004020020001  M000                                                  000000000
+1E0057078    ABDECKUNG                   000002014004020020001  M000                                                  000000000
+BDHW5708X 02 ABDECKUNG                   000001233004020020001  M000                                                  000000000
+G21B57086A02 ABDECKUNG                   000000850004020020001  M000                                                  000000000
+GE4T57086A65 ABDECKUNG      GE4T57086C65 000001333013020020101  M000                                                  000000000
+G21B57086A72 ABDECKUNG                   000000850004020020001  M000                                                  000000000
+GE4T57086C05 ABDECKUNG                   000001333004020020001  M000                                                  000000000
+GE4T57086C65 ABDECKUNG      GE4T57086A65 000001333004020020201  M000AUFGELASSEN!                                      000000000
+DFR557096 02 ABDECKUNG                   000001381004020020001  M000                                                  000000000
+DFS257096 02 ABDECKUNG                   000001969004020020001  M000                                                  000000000
+DGH957096 02 ABDECKUNG                   000000323004020020001  M000                                                  000000000
+DGJ357096 02 ABDECKUNG                   000000275004020020001  M000                                                  000000000
+BDHW57096A02 ABDECKUNG                   000001442004020020001  M000                                                  000000000
+B0J857096A02 ABDECKUNG                   000001125004020020001  M000                                                  000000000
+LA01571AX    SCHLIESSZYL.                000013220004020020001  M000                                                  000000000
+GBEF571A0    RELAIS                      000027478004020020001  M000                                                  000000000
+GBY1571A0    RELAIS                      000026610004020020001  M000                                                  000000000
+GRM957100 02 BEIFAHRERSITZ               000237299004020020001  M000                                                  000000000
+NF7H57100 02 FAHRERSITZ                  000473125004020020001  M000                                                  000000000
+DHGB57100 3B BEIFAHRERSITZ               000239035004020020001  M000                                                  000000000
+DHM557100 3B BEIFAHRERSITZ               000131504004020020001  M000                                                  000000000
+DH7C57100 3B BEIFAHRERSITZ               000084625004020020001  M000                                                  000000000
+DHM857100 4C BEIFAHRERSITZ               000159081004020020001  M000                                                  000000000
+DDED57100 44 FAHRERSITZ                  000313761004020020001  M000                                                  000000000
+BG9B57100 88 BEIFAHRERSITZ  BG9B57100C88 000152114013020020101  M000                                                  000000000
+SG7257100A04 BEIFAHRERSITZ  SG7257100B04 000167728004020020101  M000                                                  000000000
+DN3M57100A44 FAHRERSITZ                  000289369004020020001  M000                                                  000000000
+DGL257100A45 BEIFAHRERSITZ  DGL257100B45 000109920004020020101  M000                                                  000000000
+BADJ57100B02 BEIFAHRERSITZ               000164850004020020001  M000                                                  000000000
+EB1357100B02 BEIFAHRERSITZ               000163797004020020001  M000AUFGELASSEN!                                      000000000
+SG7257100B04 BEIFAHRERSITZ  SG7257100A04 000167728004020020201  M000                                                  000000000
+DGL257100B45 BEIFAHRERSITZ  DGL257100A45 000109920004020020201  M000                                                  000000000
+BA3A57100B64 BEIFAHRERSITZ               000186071004020020001  M000AUFGELASSEN!                                      000000000
+CA0657100B65 BEIFAHRERSITZ  CA0657100C65 000199415004020020101  M000                                                  000000000
+NA9557100C00 BEIFAHRERSITZ               000164979004020020001  M000AUFGELASSEN!                                      000000000
+NB4557100C00 BEIFAHRERSITZ               000173119004020020001  M000AUFGELASSEN!                                      000000000
+NH5257100C02 BEIFAHRERSITZ               000160077004020020001  M000                                                  000000000
+DH0S57100C05 FAHRERSITZ                  000289369004020020001  M000                                                  000000000
+UG8057100C09 BEIFAHRERSITZ               000123648004020020001  M000AUFGELASSEN!                                      000000000
+GBWN57100C39 FAHRERSITZ                  000425077004020020001  M000                                                  000000000
+KE0K57100C39 BEIFAHRERSITZ               000415600004020020001  M000                                                  000000000
+BS0757100C65 BEIFAHRERSITZ  BS0757100D65 000159682004020020101  M000                                                  000000000
