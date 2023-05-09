@@ -1,12 +1,10 @@
 import pandas as pd
 
-def open_pricefile(pricefile, delete_first_line):
-    with open(pricefile, 'r', encoding='utf-8') as file:
-        df = pd.DataFrame(file)
-        if delete_first_line == True:
-            df = df.drop(df.index[0])
-        file.close()
-        return df
+def open_pricefile(pricefile, pn, ss, price):
+    cols = ['pn', 'ss', 'price']
+    df = pd.read_fwf(pricefile, widths=[8, 8, 12], names=cols, skiprows=1)
+    return df
+
 
 def strange_characters_replace(pricefile):
     strange_characters_dictionary= {
