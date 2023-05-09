@@ -1,8 +1,10 @@
 import pandas as pd
 
-def open_pricefile(pricefile):
+def open_pricefile(pricefile, delete_first_line):
     with open(pricefile, 'r', encoding='utf-8') as file:
         df = pd.DataFrame(file)
+        if delete_first_line == True:
+            df = df.drop(df.index[0])
         file.close()
         return df
 
