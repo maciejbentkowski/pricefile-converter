@@ -1,8 +1,10 @@
 from modules.pricefile_scripts_helpers import *
 
 
+
 def ford_at_script(pricefile):
-    open_pricefile(pricefile)
+    data = open_pricefile(pricefile)
+    print(data)
     print("THIS IS THE FORD AT SCRIPT")
 
 

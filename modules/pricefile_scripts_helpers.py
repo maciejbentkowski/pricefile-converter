@@ -1,8 +1,10 @@
-
+import pandas as pd
 
 def open_pricefile(pricefile):
     with open(pricefile, 'r', encoding='utf-8') as file:
-        return file
+        df = pd.DataFrame(file)
+        file.close()
+        return df
 
 def strange_characters_replace(pricefile):
     strange_characters_dictionary= {
