@@ -8,6 +8,7 @@ def ford_at_script(pricefile):
     df = df.drop(df[df['cuntry_tag'] != 'A'].index)
     df = strange_characters_replace(df)
     df.loc[~df['ss'].isin(df['pn']), 'ss'] = ''
+    df = drop_pn_null_values(df)
     #print(df.to_string())
     print(df)
     print("THIS IS THE FORD AT SCRIPT")

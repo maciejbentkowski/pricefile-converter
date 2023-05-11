@@ -65,3 +65,9 @@ def strange_characters_replace(pricefile):
         pricefile['ss'] = pricefile['ss'].str.translate(str.maketrans(strange_characters_dictionary))
 
     return pricefile
+
+
+def drop_pn_null_values(pricefile):
+    if isinstance(pricefile, pd.DataFrame):
+        pricefile = pricefile.dropna(subset=['pn'])
+    return pricefile
