@@ -3,6 +3,7 @@
 30620044    11  620044        A  ERS. DURCH   61ф41ф6            EUR
 361ф41ф6      0502874         A  AUSGL.SCHEIBE               1.01EUR
               0502874         A  AUSGL.SCHEIBE               1.01EUR
+30531341       0502874        A  ERS. DURCH   0531341        1.01EUR
 36402356    11  620044        A  ERS. DURCH   PM20               EUR
 30000000 �DT1T   19980EEDFS   A                      KEIN PREIS  EUR
 30502873       0502873        A  AUSGL.SCHEIBE       KEIN PREIS  EUR

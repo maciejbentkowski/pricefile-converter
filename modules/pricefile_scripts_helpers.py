@@ -71,3 +71,8 @@ def drop_pn_null_values(pricefile):
     if isinstance(pricefile, pd.DataFrame):
         pricefile = pricefile.dropna(subset=['pn'])
     return pricefile
+
+def blank_ss_while_same_as_pn(pricefile):
+    if isinstance(pricefile, pd.DataFrame):
+        pricefile.loc[pricefile['ss'] == pricefile['pn'], 'ss'] = ''
+    return pricefile
