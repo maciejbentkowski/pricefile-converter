@@ -1,11 +1,5 @@
 import pandas as pd
 
-def open_pricefile(pricefile, pn, ss, price):
-    cols = ['pn', 'ss', 'price']
-    df = pd.read_fwf(pricefile, widths=[8, 8, 12], names=cols, skiprows=1)
-    return df
-
-
 def strange_characters_replace(pricefile):
     strange_characters_dictionary= {
         ')': '',
