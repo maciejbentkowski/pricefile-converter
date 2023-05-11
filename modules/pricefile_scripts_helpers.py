@@ -1,7 +1,7 @@
 import pandas as pd
 
 def strange_characters_replace(pricefile):
-    strange_characters_dictionary= {
+    strange_characters_dictionary = {
         ')': '',
         '(': '',
         'a': 'A',
@@ -59,6 +59,9 @@ def strange_characters_replace(pricefile):
         ';': '.',
         "'": '.',
         '+': '-'
-
     }
+    if isinstance(pricefile, pd.DataFrame):
+        pricefile['pn'] = pricefile['pn'].str.translate(str.maketrans(strange_characters_dictionary))
+        pricefile['ss'] = pricefile['ss'].str.translate(str.maketrans(strange_characters_dictionary))
 
+    return pricefile
