@@ -9,11 +9,12 @@ def ford_at_script(pricefile):
     df = strange_characters_replace(df)
     df.loc[~df['ss'].isin(df['pn']), 'ss'] = ''
     df = drop_pn_null_values(df)
-    df = blank_ss_while_same_as_pn(df)
-    #print(df.to_string())
+    #df = blank_ss_while_same_as_pn(df)
+    df = delete_non_price_rows(df, no_price_word="KEIN PREIS")
+
     print(df)
     print("THIS IS THE FORD AT SCRIPT")
-
+    generate_txt_file(df, 'output.txt')
 
 def tesla_at_script(pricefile):
     print("THIS IS THE TESLA AT SCRIPT")

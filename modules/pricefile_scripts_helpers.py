@@ -76,3 +76,17 @@ def blank_ss_while_same_as_pn(pricefile):
     if isinstance(pricefile, pd.DataFrame):
         pricefile.loc[pricefile['ss'] == pricefile['pn'], 'ss'] = ''
     return pricefile
+
+def delete_non_price_rows(pricefile, no_price_word):
+    pricefile = pricefile.dropna(subset=['price', 'ss'], how='all').copy()
+    pricefile = pricefile[~pricefile['price'].str.contains(no_price_word, case=False, na=False)]
+    pricefile = pricefile[pricefile['price'] != 0]
+    return pricefile
+
+def generate_txt_file(pricefile, filename):
+    with open(filename, 'w') as file:
+        for _, row in pricefile.iterrows():
+            pn = str(row['pn']).ljust(20)
+            ss = str(row['ss']).ljust(20)
+            price = float(row['price'])
+            file.write(f"{pn}{ss}{price:>10.2f}\n")
