@@ -23,6 +23,13 @@ def test_drop_pn_null_values():
     correct_data = (['0000004', '', 0.10, 'A'],['0000005', '', 0.09, 'A'],['0000006', '', 0.07, 'A'])
     sample_df, correct_df = data_frame_creator(data, correct_data)
     sample_df = helpers.drop_pn_null_values(sample_df)
+    pd.testing.assert_frame_equal(sample_df, correct_df)
+
+def test_blank_ss_while_same_as_pn():
+    data = (['0000001', '0000001', 0.18, 'A'],['0000004', '', 0.10, 'A'],['0000005', '0000005', 0.09, 'A'],['0000006', '', 0.07, 'A'])
+    correct_data = (['0000001', '', 0.18, 'A'],['0000004', '', 0.10, 'A'],['0000005', '', 0.09, 'A'],['0000006', '', 0.07, 'A'])
+    sample_df, correct_df = data_frame_creator(data, correct_data)
+    sample_df = helpers.blank_ss_while_same_as_pn(sample_df)
     print(sample_df)
     print(correct_df)
     pd.testing.assert_frame_equal(sample_df, correct_df)
