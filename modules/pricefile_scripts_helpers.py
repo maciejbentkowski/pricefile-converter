@@ -69,7 +69,7 @@ def strange_characters_replace(pricefile):
 
 def drop_pn_null_values(pricefile):
     if isinstance(pricefile, pd.DataFrame):
-        pricefile = pricefile.dropna(subset=['pn'])
+        pricefile = pricefile.dropna(subset=['pn']).reset_index(drop=True)
     return pricefile
 
 def blank_ss_while_same_as_pn(pricefile):
@@ -79,14 +79,20 @@ def blank_ss_while_same_as_pn(pricefile):
 
 def delete_non_price_rows(pricefile, no_price_word):
     pricefile = pricefile.dropna(subset=['price', 'ss'], how='all').copy()
+    pricefile['price'] = pricefile['price'].astype(str)
     pricefile = pricefile[~pricefile['price'].str.contains(no_price_word, case=False, na=False)]
-    pricefile = pricefile[pricefile['price'] != 0]
+    pricefile = pricefile[(pricefile['price'] != '0,00') | pricefile['ss'].notna()]
     return pricefile
 
 def generate_txt_file(pricefile, filename):
+    pricefile['price'] = pricefile['price'].astype(str)
     with open(filename, 'w') as file:
         for _, row in pricefile.iterrows():
             pn = str(row['pn']).ljust(20)
             ss = str(row['ss']).ljust(20)
-            price = float(row['price'])
-            file.write(f"{pn}{ss}{price:>10.2f}\n")
+            price = row['price'].strip().replace('.', ',')
+            file.write(f"{pn}{ss}{price:>10}\n")
+
+
+
+
