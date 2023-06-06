@@ -3,13 +3,16 @@ import pricefile_scripts_helpers as helpers
 import pandas as pd
 import numpy.testing as npt
 
-
+### TESTS FOR CHECK PN AND SS COLUMNS
 
 def data_frame_creator(data, correct_data):
     sample_df = pd.DataFrame(data, columns=['pn', 'ss', 'price', 'cuntry_tag'])
     correct_df = pd.DataFrame(correct_data, columns=['pn', 'ss', 'price', 'cuntry_tag'])
     return sample_df, correct_df
 
+### TEST FOR CHECK PN AND SS COLUMNS
+###
+###
 
 
 def test_strange_characters_replace():
@@ -32,9 +35,31 @@ def test_blank_ss_while_same_as_pn():
     sample_df = helpers.blank_ss_while_same_as_pn(sample_df)
     pd.testing.assert_frame_equal(sample_df, correct_df)
 
+
+### TESTS FOR CHECK PRICE COLUMN
+###
+###
+
 def test_delete_empty_price_rows():
     data = (['0000001', '', 0.18, 'A'],['0000004', '', 0.10, 'A'],['0000005', '0000006', 1.25, 'A'],['0000006', '', "no price", 'A'],['0000007', '', None, 'A'])
     correct_data = (['0000001', '', 0.18, 'A'],['0000004', '', 0.10, 'A'],['0000005', '0000006', 1.25, 'A'],['0000006', '', "no price", 'A'])
     sample_df, correct_df = data_frame_creator(data, correct_data)
     sample_df = helpers.delete_empty_price_rows(sample_df)
     pd.testing.assert_frame_equal(sample_df, correct_df)
+
+def test_delete_string_price_rows():
+    data = (['0000001', '', 'no price', 'A'],['0000004', '', 0.10, 'A'],['0000005', '', 0.09, 'A'],['0000006', '', 0.07, 'A'], ['0000007', '', 'no price', 'A'])
+    correct_data = (['0000004', '', 0.10, 'A'],['0000005', '', 0.09, 'A'],['0000006', '', 0.07, 'A'])
+    sample_df, correct_df = data_frame_creator(data, correct_data)
+    sample_df = helpers.delete_string_price_rows(sample_df, 'no price')
+    pd.testing.assert_frame_equal(sample_df, correct_df, check_dtype=False)
+
+def test_delete_zero_price_rows():
+    data = (['0000001', '0000004', 3, 'A'],['0000004', '', 0.10, 'A'],['0000005', '', 0.09, 'A'],['0000006', '', 0.07, 'A'], ['0000007', '', 0.00, 'A'])
+    correct_data = (['0000001', '0000004', 3, 'A'],['0000004', '', 0.10, 'A'],['0000005', '', 0.09, 'A'],['0000006', '', 0.07, 'A'])
+    sample_df, correct_df = data_frame_creator(data, correct_data)
+    sample_df = helpers.delete_zero_price_rows(sample_df)
+    print(correct_df)
+    print(sample_df)
+    pd.testing.assert_frame_equal(sample_df, correct_df, check_dtype=False)
+

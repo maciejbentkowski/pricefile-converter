@@ -83,12 +83,12 @@ def delete_empty_price_rows(pricefile):
     return pricefile
 
 def delete_string_price_rows(pricefile, no_price_word):
-    pricefile = pricefile.dropna(subset=['price', 'ss'], how='all').copy()
-    pricefile = pricefile[~pricefile['price'].astype(str).str.contains(no_price_word, case=False, na=False)]
+    pricefile = pricefile[~pricefile['price'].astype(str).str.contains(no_price_word, case=False, na=False)].reset_index(drop=True)
+    return pricefile
 
-def delete_non_price_rows(pricefile):
+def delete_zero_price_rows(pricefile):
     pricefile['price'] = pricefile['price'].astype(float)
-    pricefile = pricefile[(pricefile['price'] != '0,00') | pricefile['ss'].notna()]
+    pricefile = pricefile[(pricefile['price'] != 0.0) | (pricefile['ss'] != '')].reset_index(drop=True)
     return pricefile
 
 def generate_txt_file(pricefile, filename):
