@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 
 def strange_characters_replace(pricefile):
     strange_characters_dictionary = {
@@ -77,9 +78,14 @@ def blank_ss_while_same_as_pn(pricefile):
         pricefile.loc[pricefile['ss'] == pricefile['pn'], 'ss'] = ''
     return pricefile
 
+def clear_ss_while_there_is_no_equivalent_pn(pricefile):
+    pricefile.loc[~pricefile['ss'].isin(pricefile['pn']), 'ss'] = ''
+    return pricefile
+
 def delete_empty_price_rows(pricefile):
+    pricefile['ss'] = pricefile['ss'].replace('', np.nan)
     pricefile = pricefile.dropna(subset=['price', 'ss'], how='all').copy()
-    pricefile = pricefile[~pricefile['price'].isna()]
+    pricefile['ss'] = pricefile['ss'].replace(np.nan, '')
     return pricefile
 
 def delete_string_price_rows(pricefile, no_price_word):

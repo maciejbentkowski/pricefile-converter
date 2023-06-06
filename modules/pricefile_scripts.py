@@ -7,10 +7,13 @@ def ford_at_script(pricefile):
     df = pd.read_fwf(pricefile, colspecs=([1,8], [46,53], [53,65], [30,31]),names=cols, skiprows=1)
     df = df.drop(df[df['cuntry_tag'] != 'A'].index)
     df = strange_characters_replace(df)
-    df.loc[~df['ss'].isin(df['pn']), 'ss'] = ''
+    df = clear_ss_while_there_is_no_equivalent_pn(df)
     df = drop_pn_null_values(df)
-    #df = blank_ss_while_same_as_pn(df)
-    df = delete_non_price_rows(df, no_price_word="KEIN PREIS")
+    df = blank_ss_while_same_as_pn(df)
+    df = delete_empty_price_rows(df)
+    df = delete_string_price_rows(df, 'KEIN PREIS')
+    df = delete_zero_price_rows(df)
+
 
     print(df)
     print("THIS IS THE FORD AT SCRIPT")

@@ -2,7 +2,7 @@ from modules.file_import import *
 from modules.file_recognition import *
 
 #TURN ON TESTING MODE TO USE THE TESTING_PRICEFILES DIRECTORY
-TESTING_MODE_ON = True
+TESTING_MODE_ON = False
 
 if TESTING_MODE_ON:
     pricefiles_directory = './testing_pricefiles/'
