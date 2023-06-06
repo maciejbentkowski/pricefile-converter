@@ -30,6 +30,11 @@ def test_blank_ss_while_same_as_pn():
     correct_data = (['0000001', '', 0.18, 'A'],['0000004', '', 0.10, 'A'],['0000005', '', 0.09, 'A'],['0000006', '', 0.07, 'A'])
     sample_df, correct_df = data_frame_creator(data, correct_data)
     sample_df = helpers.blank_ss_while_same_as_pn(sample_df)
-    print(sample_df)
-    print(correct_df)
+    pd.testing.assert_frame_equal(sample_df, correct_df)
+
+def test_delete_empty_price_rows():
+    data = (['0000001', '', 0.18, 'A'],['0000004', '', 0.10, 'A'],['0000005', '0000006', 1.25, 'A'],['0000006', '', "no price", 'A'],['0000007', '', None, 'A'])
+    correct_data = (['0000001', '', 0.18, 'A'],['0000004', '', 0.10, 'A'],['0000005', '0000006', 1.25, 'A'],['0000006', '', "no price", 'A'])
+    sample_df, correct_df = data_frame_creator(data, correct_data)
+    sample_df = helpers.delete_empty_price_rows(sample_df)
     pd.testing.assert_frame_equal(sample_df, correct_df)

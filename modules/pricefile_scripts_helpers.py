@@ -77,10 +77,17 @@ def blank_ss_while_same_as_pn(pricefile):
         pricefile.loc[pricefile['ss'] == pricefile['pn'], 'ss'] = ''
     return pricefile
 
-def delete_non_price_rows(pricefile, no_price_word):
+def delete_empty_price_rows(pricefile):
     pricefile = pricefile.dropna(subset=['price', 'ss'], how='all').copy()
-    pricefile['price'] = pricefile['price'].astype(str)
-    pricefile = pricefile[~pricefile['price'].str.contains(no_price_word, case=False, na=False)]
+    pricefile = pricefile[~pricefile['price'].isna()]
+    return pricefile
+
+def delete_string_price_rows(pricefile, no_price_word):
+    pricefile = pricefile.dropna(subset=['price', 'ss'], how='all').copy()
+    pricefile = pricefile[~pricefile['price'].astype(str).str.contains(no_price_word, case=False, na=False)]
+
+def delete_non_price_rows(pricefile):
+    pricefile['price'] = pricefile['price'].astype(float)
     pricefile = pricefile[(pricefile['price'] != '0,00') | pricefile['ss'].notna()]
     return pricefile
 
