@@ -59,7 +59,35 @@ def test_delete_zero_price_rows():
     correct_data = (['0000001', '0000004', 3, 'A'],['0000004', '', 0.10, 'A'],['0000005', '', 0.09, 'A'],['0000006', '', 0.07, 'A'], ['0000008', '0000009', None, 'A'])
     sample_df, correct_df = data_frame_creator(data, correct_data)
     sample_df = helpers.delete_zero_price_rows(sample_df)
-    print(correct_df)
+    pd.testing.assert_frame_equal(sample_df, correct_df, check_dtype=False)
+
+def test_remove_chain_without_price():
+
+    data = (['0000001', '', 0.18, 'A'],
+        ['0000004', '', 0.10, 'A'],
+        ['0000005', '0000006', None, 'A'],
+        ['0000006', '', 4.25, 'A'],
+        ['0000007', '', 51.53, 'A'],
+        ['0000009', '0000011', None, 'A'],
+        ['0000020', '', 41.51, 'A'],
+        ['0000011', '', 3.51, 'A'],
+        ['0000010', '0000012', None, 'A'],
+        ['0000012', '0000013', None, 'A'],
+        ['0000013', '0000014', None, 'A'])
+    
+
+    correct_data = (['0000001', '', 0.18, 'A'],
+            ['0000004', '', 0.10, 'A'],
+            ['0000005', '0000006', None, 'A'],
+            ['0000006', '', 4.25, 'A'],
+            ['0000007', '', 51.53, 'A'],
+            ['0000009', '0000011', None, 'A'],
+            ['0000020', '', 41.51, 'A'],
+            ['0000011', '', 3.51, 'A'])
+
+    sample_df, correct_df = data_frame_creator(data, correct_data)
+    print(sample_df)
+    sample_df = helpers.remove_chain_without_price(sample_df)
     print(sample_df)
     pd.testing.assert_frame_equal(sample_df, correct_df, check_dtype=False)
 

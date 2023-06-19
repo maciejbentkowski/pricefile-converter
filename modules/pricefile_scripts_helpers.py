@@ -1,5 +1,7 @@
 import pandas as pd
 import numpy as np
+from datetime import date
+from decimal import Decimal, ROUND_HALF_UP
 
 def strange_characters_replace(pricefile):
     strange_characters_dictionary = {
@@ -97,15 +99,30 @@ def delete_zero_price_rows(pricefile):
     pricefile = pricefile[(pricefile['price'] != 0.0) | (pricefile['ss'] != '')].reset_index(drop=True)
     return pricefile
 
+
+def remove_chain_without_price(pricefile):
+    valid_pn_set = set(pricefile[pricefile['price'].notna()]['pn'])
+    valid_ss_set = set(pricefile[pricefile['price'].notna()]['ss'])
+    valid_pn_ss_set = valid_pn_set.union(valid_ss_set)
+    pricefile = pricefile[(pricefile['pn'].isin(valid_pn_ss_set)) | (pricefile['ss'].isin(valid_pn_ss_set)) | (pricefile['price'].notna())]
+    pricefile = pricefile.reset_index(drop=True)
+    return pricefile
+
 def generate_txt_file(pricefile, filename):
-    pricefile['price'] = pricefile['price'].astype(str)
+    pricefile['price'] = pricefile['price'].astype(float).round(2)
+    pricefile['price'].fillna('', inplace=True)
     with open(filename, 'w') as file:
+        write_todays_date(file)
         for _, row in pricefile.iterrows():
             pn = str(row['pn']).ljust(20)
             ss = str(row['ss']).ljust(20)
-            price = row['price'].strip().replace('.', ',')
+            price = str(row['price']).ljust(10)
             file.write(f"{pn}{ss}{price:>10}\n")
 
+def write_todays_date(file):
+    today = date.today()
+    today = today.strftime("%d.%m.%Y")
+    file.write(f'PriceL{today}'+ (" "*30) +"9,99\n")
 
 
 

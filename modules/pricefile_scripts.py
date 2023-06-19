@@ -13,7 +13,9 @@ def ford_at_script(pricefile):
     df = delete_empty_price_rows(df)
     df = delete_string_price_rows(df, 'KEIN PREIS')
     df = delete_zero_price_rows(df)
-
+    df = remove_chain_without_price(df)
+    df = remove_chain_without_price(df)
+    df = remove_chain_without_price(df)
 
     print(df)
     print("THIS IS THE FORD AT SCRIPT")
