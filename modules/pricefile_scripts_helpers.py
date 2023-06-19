@@ -109,14 +109,22 @@ def remove_chain_without_price(pricefile):
     return pricefile
 
 def generate_txt_file(pricefile, filename):
-    pricefile['price'].fillna('', inplace=True)
+    pricefile['price'] = pricefile['price'].astype(float)
     with open(filename, 'w') as file:
         write_todays_date(file)
         for _, row in pricefile.iterrows():
-            pn = str(row['pn']).ljust(20)
-            ss = str(row['ss']).ljust(20)
-            price = str(row['price']).ljust(10)
-            file.write(f"{pn}{ss}{price:>10}\n")
+            pn = str(row['pn'])
+            ss = str(row['ss'])
+            price_len = len(str(row['price']))
+            # Check if the price is NaN
+            if pd.isna(row['price']):
+                blank = 20
+                file.write(f"{pn}{ss:>{blank}}\n")
+            else:
+                # Format price with 2 decimal places and replace dot with comma
+                blank = 50 - (len(pn))
+                price = "{:.2f}".format(row['price']).replace('.', ',')
+                file.write(f"{pn}{ss}{price:>{blank}}\n")
 
 def write_todays_date(file):
     today = date.today()
