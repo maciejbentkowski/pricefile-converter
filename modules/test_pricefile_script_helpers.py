@@ -1,7 +1,5 @@
-import pytest
 import pricefile_scripts_helpers as helpers
 import pandas as pd
-import numpy.testing as npt
 
 ### TESTS FOR CHECK PN AND SS COLUMNS
 
