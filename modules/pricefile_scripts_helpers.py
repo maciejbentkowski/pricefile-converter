@@ -109,7 +109,6 @@ def remove_chain_without_price(pricefile):
     return pricefile
 
 def generate_txt_file(pricefile, filename):
-    pricefile['price'] = pricefile['price'].astype(float).round(2)
     pricefile['price'].fillna('', inplace=True)
     with open(filename, 'w') as file:
         write_todays_date(file)
@@ -124,5 +123,11 @@ def write_todays_date(file):
     today = today.strftime("%d.%m.%Y")
     file.write(f'PriceL{today}'+ (" "*30) +"9,99\n")
 
+def replace_comma_with_dot(pricefile):
+    pricefile['price'] = pricefile['price'].apply(lambda x: str(x).replace(',', '.')).apply(Decimal)
+    pricefile['price'] = pricefile['price'].apply(lambda x: x.quantize(Decimal('0.01'), rounding=ROUND_HALF_UP))
+    pricefile['price'] = pricefile['price'].astype(float)
+    print (pricefile.head(30))
+    return pricefile
 
 
