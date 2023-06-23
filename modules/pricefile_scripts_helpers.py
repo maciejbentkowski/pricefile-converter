@@ -95,8 +95,7 @@ def delete_string_price_rows(pricefile, no_price_word):
     return pricefile
 
 def delete_zero_price_rows(pricefile):
-    pricefile['price'] = pricefile['price'].astype(float)
-    pricefile = pricefile[(pricefile['price'] != 0.0) | (pricefile['ss'] != '')].reset_index(drop=True)
+    pricefile = pricefile[~((pricefile['price'] == 0.00) & (pricefile['ss'] == ''))].reset_index(drop=True)
     return pricefile
 
 
@@ -115,7 +114,6 @@ def generate_txt_file(pricefile, filename):
         for _, row in pricefile.iterrows():
             pn = str(row['pn'])
             ss = str(row['ss'])
-            price_len = len(str(row['price']))
             # Check if the price is NaN
             if pd.isna(row['price']):
                 blank = 20
@@ -131,11 +129,18 @@ def write_todays_date(file):
     today = today.strftime("%d.%m.%Y")
     file.write(f'PriceL{today}'+ (" "*30) +"9,99\n")
 
-def replace_comma_with_dot(pricefile):
-    pricefile['price'] = pricefile['price'].apply(lambda x: str(x).replace(',', '.')).apply(Decimal)
-    pricefile['price'] = pricefile['price'].apply(lambda x: x.quantize(Decimal('0.01'), rounding=ROUND_HALF_UP))
-    pricefile['price'] = pricefile['price'].astype(float)
-    print (pricefile.head(30))
-    return pricefile
 
+def convert_to_decimal(x):
+    if x is None:
+        return None
+    elif isinstance(x, float):
+        return Decimal(str(x))
+    else:
+        return Decimal(str(x).replace(',', '.'))
+
+def replace_comma_with_dot(pricefile):
+    pricefile['price'] = pricefile['price'].apply(convert_to_decimal)
+    pricefile['price'] = pricefile['price'].apply(lambda x: x.quantize(Decimal('0.01'), rounding=ROUND_HALF_UP) if x is not None else None)
+    pricefile['price'] = pricefile['price'].astype(float)
+    return pricefile 
 
